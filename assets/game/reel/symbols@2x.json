@@ -1,0 +1,100 @@
+{"frames": {
+
+"10":
+{
+	"frame": {"x":0,"y":332,"w":366,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":102,"w":366,"h":338},
+	"sourceSize": {"w":600,"h":600}
+},
+"a":
+{
+	"frame": {"x":1097,"y":0,"w":352,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":108,"w":352,"h":332},
+	"sourceSize": {"w":600,"h":600}
+},
+"helmet":
+{
+	"frame": {"x":366,"y":332,"w":448,"h":414},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":80,"w":448,"h":414},
+	"sourceSize": {"w":600,"h":600}
+},
+"j":
+{
+	"frame": {"x":745,"y":0,"w":352,"h":330},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":110,"w":352,"h":330},
+	"sourceSize": {"w":600,"h":600}
+},
+"k":
+{
+	"frame": {"x":393,"y":0,"w":352,"h":322},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":118,"w":352,"h":322},
+	"sourceSize": {"w":600,"h":600}
+},
+"kingArthur":
+{
+	"frame": {"x":1065,"y":851,"w":564,"h":599},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":77,"w":564,"h":599},
+	"sourceSize": {"w":680,"h":680}
+},
+"knight":
+{
+	"frame": {"x":0,"y":851,"w":550,"h":540},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":39,"w":550,"h":540},
+	"sourceSize": {"w":600,"h":600}
+},
+"princess":
+{
+	"frame": {"x":1235,"y":332,"w":549,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":60,"w":549,"h":519},
+	"sourceSize": {"w":600,"h":600}
+},
+"q":
+{
+	"frame": {"x":0,"y":0,"w":393,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":131,"w":393,"h":311},
+	"sourceSize": {"w":600,"h":600}
+},
+"shild":
+{
+	"frame": {"x":814,"y":332,"w":421,"h":480},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":56,"w":421,"h":480},
+	"sourceSize": {"w":600,"h":600}
+},
+"wild":
+{
+	"frame": {"x":550,"y":851,"w":515,"h":559},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":12,"w":515,"h":559},
+	"sourceSize": {"w":600,"h":600}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbols@2x.png",
+	"format": "RGBA8888",
+	"size": {"w":1784,"h":1450},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1b1521adc84f34496b06cac7627c329a:6dc3c7f347e9f144551023c874bfd910:ba74c9d03b1ad36a4cceee70a061b1e0$"
+}
+}

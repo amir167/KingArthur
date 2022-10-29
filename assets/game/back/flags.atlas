@@ -1,0 +1,48 @@
+
+flags.png
+size: 476,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f1
+  rotate: false
+  xy: 346, 312
+  size: 128, 162
+  orig: 128, 162
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 2, 27
+  size: 179, 224
+  orig: 179, 224
+  offset: 0, 0
+  index: -1
+f3
+  rotate: true
+  xy: 348, 36
+  size: 274, 118
+  orig: 274, 118
+  offset: 0, 0
+  index: -1
+f4
+  rotate: false
+  xy: 183, 31
+  size: 163, 220
+  orig: 163, 220
+  offset: 0, 0
+  index: -1
+f5
+  rotate: false
+  xy: 2, 357
+  size: 342, 117
+  orig: 342, 117
+  offset: 0, 0
+  index: -1
+f6
+  rotate: false
+  xy: 2, 253
+  size: 314, 102
+  orig: 314, 102
+  offset: 0, 0
+  index: -1
