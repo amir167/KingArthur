@@ -1,0 +1,537 @@
+
+KingArthurB.png
+size: 2041,1740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Arm_L
+  rotate: true
+  xy: 2, 555
+  size: 239, 418
+  orig: 653, 431
+  offset: 0, 13
+  index: -1
+A_Arm_L_T
+  rotate: false
+  xy: 1490, 845
+  size: 449, 213
+  orig: 449, 230
+  offset: 0, 0
+  index: -1
+A_Arm_R
+  rotate: false
+  xy: 1618, 612
+  size: 325, 231
+  orig: 325, 232
+  offset: 0, 1
+  index: -1
+A_Arm_l1
+  rotate: true
+  xy: 918, 705
+  size: 223, 377
+  orig: 223, 397
+  offset: 0, 18
+  index: -1
+A_Body_t
+  rotate: true
+  xy: 422, 475
+  size: 228, 775
+  orig: 228, 775
+  offset: 0, 0
+  index: -1
+A_Eye_l
+  rotate: false
+  xy: 2, 1718
+  size: 30, 20
+  orig: 38, 30
+  offset: 7, 7
+  index: -1
+A_Eye_r
+  rotate: false
+  xy: 34, 1715
+  size: 41, 23
+  orig: 100, 39
+  offset: 2, 13
+  index: -1
+A_Face
+  rotate: true
+  xy: 719, 986
+  size: 181, 252
+  orig: 181, 252
+  offset: 0, 0
+  index: -1
+A_Face_Hair
+  rotate: true
+  xy: 2, 251
+  size: 302, 311
+  orig: 302, 313
+  offset: 0, 2
+  index: -1
+A_Hair_b
+  rotate: false
+  xy: 1884, 1462
+  size: 155, 187
+  orig: 155, 187
+  offset: 0, 0
+  index: -1
+A_Sword
+  rotate: true
+  xy: 315, 2
+  size: 360, 1482
+  orig: 360, 1482
+  offset: 0, 0
+  index: -1
+A_Sword_B
+  rotate: true
+  xy: 1598, 1060
+  size: 140, 332
+  orig: 160, 343
+  offset: 6, 5
+  index: -1
+A_Sword_B1
+  rotate: true
+  xy: 482, 1674
+  size: 64, 67
+  orig: 160, 343
+  offset: 82, 270
+  index: -1
+A_Sword_Glow
+  rotate: true
+  xy: 276, 1016
+  size: 157, 441
+  orig: 157, 441
+  offset: 0, 0
+  index: -1
+A_Sword_T
+  rotate: true
+  xy: 1626, 1651
+  size: 87, 105
+  orig: 96, 115
+  offset: 4, 5
+  index: -1
+Effect
+  rotate: true
+  xy: 1199, 364
+  size: 246, 734
+  orig: 246, 734
+  offset: 0, 0
+  index: -1
+F_Bacground
+  rotate: true
+  xy: 2, 796
+  size: 218, 671
+  orig: 222, 675
+  offset: 2, 2
+  index: -1
+F_Sh
+  rotate: true
+  xy: 1297, 616
+  size: 227, 319
+  orig: 234, 328
+  offset: 3, 6
+  index: -1
+F_Sh1
+  rotate: true
+  xy: 1226, 1127
+  size: 139, 370
+  orig: 145, 377
+  offset: 3, 4
+  index: -1
+Glow
+  rotate: true
+  xy: 2, 1030
+  size: 153, 272
+  orig: 170, 437
+  offset: 9, 147
+  index: -1
+Rays2
+  rotate: false
+  xy: 973, 948
+  size: 205, 202
+  orig: 278, 256
+  offset: 31, 21
+  index: -1
+blick
+  rotate: true
+  xy: 2, 1613
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+blick_sword
+  rotate: false
+  xy: 733, 1672
+  size: 319, 66
+  orig: 334, 73
+  offset: 15, 3
+  index: -1
+blickka_seq/026
+  rotate: true
+  xy: 117, 1707
+  size: 31, 39
+  orig: 128, 361
+  offset: 0, 322
+  index: -1
+blickka_seq/027
+  rotate: true
+  xy: 158, 1698
+  size: 40, 52
+  orig: 128, 361
+  offset: 0, 309
+  index: -1
+blickka_seq/028
+  rotate: true
+  xy: 265, 1690
+  size: 48, 65
+  orig: 128, 361
+  offset: 0, 296
+  index: -1
+blickka_seq/029
+  rotate: true
+  xy: 403, 1682
+  size: 56, 77
+  orig: 128, 361
+  offset: 0, 284
+  index: -1
+blickka_seq/030
+  rotate: true
+  xy: 551, 1674
+  size: 64, 89
+  orig: 128, 361
+  offset: 0, 272
+  index: -1
+blickka_seq/031
+  rotate: true
+  xy: 1159, 1667
+  size: 71, 101
+  orig: 128, 361
+  offset: 1, 260
+  index: -1
+blickka_seq/032
+  rotate: true
+  xy: 1380, 1659
+  size: 79, 113
+  orig: 128, 361
+  offset: 1, 248
+  index: -1
+blickka_seq/033
+  rotate: true
+  xy: 1733, 1651
+  size: 87, 125
+  orig: 128, 361
+  offset: 0, 236
+  index: -1
+blickka_seq/034
+  rotate: true
+  xy: 132, 1594
+  size: 94, 137
+  orig: 128, 361
+  offset: 0, 224
+  index: -1
+blickka_seq/035
+  rotate: true
+  xy: 595, 1568
+  size: 102, 149
+  orig: 128, 361
+  offset: 0, 212
+  index: -1
+blickka_seq/036
+  rotate: true
+  xy: 923, 1558
+  size: 109, 161
+  orig: 128, 361
+  offset: 0, 200
+  index: -1
+blickka_seq/037
+  rotate: true
+  xy: 1515, 1532
+  size: 117, 172
+  orig: 128, 361
+  offset: 0, 189
+  index: -1
+blickka_seq/038
+  rotate: true
+  xy: 2, 1470
+  size: 122, 184
+  orig: 128, 361
+  offset: 0, 177
+  index: -1
+blickka_seq/039
+  rotate: true
+  xy: 188, 1459
+  size: 125, 196
+  orig: 128, 361
+  offset: 0, 165
+  index: -1
+blickka_seq/040
+  rotate: true
+  xy: 1083, 1412
+  size: 128, 207
+  orig: 128, 361
+  offset: 0, 154
+  index: -1
+blickka_seq/041
+  rotate: true
+  xy: 1292, 1412
+  size: 128, 219
+  orig: 128, 361
+  offset: 0, 142
+  index: -1
+blickka_seq/042
+  rotate: true
+  xy: 1513, 1398
+  size: 128, 230
+  orig: 128, 361
+  offset: 0, 131
+  index: -1
+blickka_seq/043
+  rotate: true
+  xy: 1745, 1332
+  size: 128, 242
+  orig: 128, 361
+  offset: 0, 119
+  index: -1
+blickka_seq/044
+  rotate: true
+  xy: 2, 1329
+  size: 128, 253
+  orig: 128, 361
+  offset: 0, 107
+  index: -1
+blickka_seq/045
+  rotate: true
+  xy: 257, 1315
+  size: 128, 263
+  orig: 128, 361
+  offset: 0, 96
+  index: -1
+blickka_seq/046
+  rotate: true
+  xy: 522, 1305
+  size: 128, 269
+  orig: 128, 361
+  offset: 0, 85
+  index: -1
+blickka_seq/047
+  rotate: true
+  xy: 806, 1429
+  size: 127, 275
+  orig: 128, 361
+  offset: 0, 73
+  index: -1
+blickka_seq/048
+  rotate: true
+  xy: 793, 1299
+  size: 128, 269
+  orig: 128, 361
+  offset: 0, 61
+  index: -1
+blickka_seq/049
+  rotate: true
+  xy: 1064, 1282
+  size: 128, 269
+  orig: 128, 361
+  offset: 0, 49
+  index: -1
+blickka_seq/050
+  rotate: true
+  xy: 1335, 1268
+  size: 128, 269
+  orig: 128, 361
+  offset: 0, 37
+  index: -1
+blickka_seq/051
+  rotate: true
+  xy: 1606, 1202
+  size: 128, 272
+  orig: 128, 361
+  offset: 0, 22
+  index: -1
+blickka_seq/052
+  rotate: true
+  xy: 257, 1185
+  size: 128, 263
+  orig: 128, 361
+  offset: 0, 20
+  index: -1
+blickka_seq/053
+  rotate: true
+  xy: 2, 1199
+  size: 128, 253
+  orig: 128, 361
+  offset: 0, 19
+  index: -1
+blickka_seq/054
+  rotate: true
+  xy: 522, 1175
+  size: 128, 242
+  orig: 128, 361
+  offset: 0, 18
+  index: -1
+blickka_seq/055
+  rotate: true
+  xy: 766, 1169
+  size: 128, 233
+  orig: 128, 361
+  offset: 0, 15
+  index: -1
+blickka_seq/056
+  rotate: true
+  xy: 1001, 1152
+  size: 128, 223
+  orig: 128, 361
+  offset: 0, 14
+  index: -1
+blickka_seq/057
+  rotate: true
+  xy: 591, 1435
+  size: 126, 213
+  orig: 128, 361
+  offset: 2, 12
+  index: -1
+blickka_seq/058
+  rotate: true
+  xy: 386, 1445
+  size: 125, 203
+  orig: 128, 361
+  offset: 3, 10
+  index: -1
+blickka_seq/059
+  rotate: true
+  xy: 1689, 1528
+  size: 121, 193
+  orig: 128, 361
+  offset: 7, 9
+  index: -1
+blickka_seq/060
+  rotate: true
+  xy: 1086, 1549
+  size: 113, 184
+  orig: 128, 361
+  offset: 15, 6
+  index: -1
+blickka_seq/061
+  rotate: true
+  xy: 746, 1563
+  size: 107, 175
+  orig: 128, 361
+  offset: 21, 3
+  index: -1
+blickka_seq/062
+  rotate: true
+  xy: 427, 1572
+  size: 100, 166
+  orig: 128, 361
+  offset: 28, 1
+  index: -1
+blickka_seq/063
+  rotate: true
+  xy: 271, 1586
+  size: 94, 154
+  orig: 128, 361
+  offset: 34, 0
+  index: -1
+blickka_seq/064
+  rotate: true
+  xy: 1860, 1651
+  size: 87, 142
+  orig: 128, 361
+  offset: 41, 0
+  index: -1
+blickka_seq/065
+  rotate: true
+  xy: 1495, 1657
+  size: 81, 129
+  orig: 128, 361
+  offset: 47, 2
+  index: -1
+blickka_seq/066
+  rotate: true
+  xy: 1262, 1664
+  size: 74, 116
+  orig: 128, 361
+  offset: 54, 3
+  index: -1
+blickka_seq/067
+  rotate: true
+  xy: 1054, 1669
+  size: 69, 103
+  orig: 128, 361
+  offset: 59, 3
+  index: -1
+blickka_seq/068
+  rotate: true
+  xy: 642, 1674
+  size: 64, 89
+  orig: 128, 361
+  offset: 64, 5
+  index: -1
+blickka_seq/069
+  rotate: true
+  xy: 332, 1688
+  size: 50, 69
+  orig: 128, 361
+  offset: 78, 13
+  index: -1
+blickka_seq/070
+  rotate: true
+  xy: 212, 1698
+  size: 40, 51
+  orig: 128, 361
+  offset: 88, 18
+  index: -1
+blickka_seq/071
+  rotate: true
+  xy: 77, 1709
+  size: 29, 38
+  orig: 128, 361
+  offset: 97, 19
+  index: -1
+dust_p
+  rotate: true
+  xy: 675, 746
+  size: 238, 241
+  orig: 238, 241
+  offset: 0, 0
+  index: -1
+flame_tex1
+  rotate: true
+  xy: 1180, 930
+  size: 195, 308
+  orig: 195, 308
+  offset: 0, 0
+  index: -1
+smoketex
+  rotate: true
+  xy: 1272, 1542
+  size: 113, 241
+  orig: 120, 247
+  offset: 3, 3
+  index: -1
+
+KingArthurB2.png
+size: 1749,1583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Body_b
+  rotate: false
+  xy: 2, 2
+  size: 736, 1579
+  orig: 736, 1623
+  offset: 0, 0
+  index: -1
+F_Frame
+  rotate: false
+  xy: 740, 105
+  size: 517, 1476
+  orig: 517, 1476
+  offset: 0, 0
+  index: -1
+F_Glow
+  rotate: false
+  xy: 1259, 220
+  size: 488, 1361
+  orig: 502, 1374
+  offset: 7, 7
+  index: -1

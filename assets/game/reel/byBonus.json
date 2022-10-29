@@ -1,0 +1,152 @@
+{
+"skeleton": { "hash": "5z937D4Qe/Xs0qv6GL/Ay+M35Lw", "spine": "3.8.76", "x": -110.14, "y": -110.88, "width": 240.47, "height": 218 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "smoke", "parent": "root", "x": -2.17, "y": -2.19 },
+	{ "name": "smoke2", "parent": "root", "x": -2.17, "y": -2.19 },
+	{ "name": "smoke4", "parent": "root", "x": -2.17, "y": -2.19 },
+	{ "name": "smoke6", "parent": "root", "x": -2.17, "y": -2.19 }
+],
+"slots": [
+	{ "name": "glow", "bone": "root", "color": "ffffff00", "attachment": "glow", "blend": "additive" },
+	{ "name": "smoke", "bone": "smoke", "color": "ffffff00", "attachment": "smoke", "blend": "additive" },
+	{ "name": "smoke4", "bone": "smoke4", "color": "ffffff00", "attachment": "smoke", "blend": "additive" },
+	{ "name": "smoke2", "bone": "smoke2", "color": "ffffff00", "attachment": "smoke", "blend": "additive" },
+	{ "name": "smoke3", "bone": "smoke6", "color": "ffffff00", "attachment": "smoke", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"glow": {
+				"glow": { "x": -1.14, "y": -1.88, "width": 218, "height": 218 }
+			},
+			"smoke2": {
+				"smoke": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0.5, 1, 0, 1, 0, 0.5, 0, 0, 0.5, 0, 1, 0, 1, 0.5, 0.5, 0.5 ],
+					"triangles": [ 0, 1, 7, 1, 8, 7, 7, 8, 6, 8, 5, 6, 1, 2, 8, 2, 3, 8, 8, 3, 5, 3, 4, 5 ],
+					"vertices": [ 132.5, -107.22, 15.5, -107.22, -101.5, -107.22, -101.5, -3.22, -101.5, 100.78, 15.5, 100.78, 132.5, 100.78, 132.5, -3.22, 15.5, -3.22 ],
+					"hull": 8
+				}
+			},
+			"smoke3": {
+				"smoke": { "x": 15.5, "y": -3.22, "width": 234, "height": 208 }
+			},
+			"smoke4": {
+				"smoke": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0.5, 1, 0, 1, 0, 0.5, 0, 0, 0.5, 0, 1, 0, 1, 0.5, 0.5, 0.5 ],
+					"triangles": [ 0, 1, 7, 1, 8, 7, 7, 8, 6, 8, 5, 6, 1, 2, 8, 2, 3, 8, 8, 3, 5, 3, 4, 5 ],
+					"vertices": [ 132.5, -107.22, 15.5, -107.22, -101.5, -107.22, -101.5, -3.22, -101.5, 100.78, 15.5, 100.78, 132.5, 100.78, 132.5, -3.22, 15.5, -3.22 ],
+					"hull": 8
+				}
+			},
+			"smoke": {
+				"smoke": { "x": 15.5, "y": -3.22, "width": 234, "height": 208 }
+			}
+		}
+	}
+],
+"animations": {
+	"start": {
+		"slots": {
+			"smoke3": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.494, "c3": 0.75 },
+					{ "time": 0.7667, "color": "b91e0062", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"smoke2": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8833, "color": "ff2a008b", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"glow": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"smoke4": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667, "color": "ffffff7e", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"smoke": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.484, "c3": 0.75 },
+					{ "time": 1.4167, "color": "ff252585", "curve": 0.25, "c3": 0.572 },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"smoke": {
+				"rotate": [
+					{},
+					{ "time": 2, "angle": -25.2 }
+				],
+				"scale": [
+					{ "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.419 },
+					{ "time": 2, "x": 1.1, "y": 1.1 }
+				]
+			},
+			"smoke2": {
+				"rotate": [
+					{},
+					{ "time": 2, "angle": 22.8 }
+				],
+				"scale": [
+					{ "x": 0.9, "y": 0.9, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "x": 1.1, "y": 1.1 }
+				]
+			},
+			"smoke4": {
+				"rotate": [
+					{},
+					{ "time": 2, "angle": -25.2 }
+				],
+				"scale": [
+					{ "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "x": 1.2, "y": 1.2 }
+				]
+			},
+			"smoke6": {
+				"rotate": [
+					{ "curve": 0.203, "c3": 0.383 },
+					{ "time": 2, "angle": 40 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"smoke2": {
+					"smoke": [
+						{ "curve": 0.247, "c3": 0.729, "c4": 0.91 },
+						{
+							"time": 2,
+							"vertices": [ 16.24366, -3.92595, 21.21124, 9.58888, 6.86835, -1.43202, 11.51075, 0.62265, -12.07697, 4.89757, -11.79066, -10.13412, 0.37517, 4.50104, -16.71625, -5.61879, -2.59721, 6.28813 ]
+						}
+					]
+				},
+				"smoke4": {
+					"smoke": [
+						{ "curve": 0.25, "c3": 0.75 },
+						{
+							"time": 2,
+							"vertices": [ -0.23065, 0.51939, -0.79823, 24.20357, 0, 0, 23.97182, -1.48066, 0, 0, -20.05653, -18.54117, 22.44823, 12.45333, -19.23971, 4.82514 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,384 @@
+
+a.png
+size: 538,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow
+  rotate: true
+  xy: 2, 6
+  size: 136, 116
+  orig: 218, 184
+  offset: 41, 34
+  index: -1
+Pattern
+  rotate: true
+  xy: 348, 64
+  size: 81, 98
+  orig: 81, 98
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: false
+  xy: 2, 318
+  size: 255, 218
+  orig: 256, 227
+  offset: 1, 5
+  index: -1
+a
+  rotate: true
+  xy: 259, 147
+  size: 191, 198
+  orig: 191, 198
+  offset: 0, 0
+  index: -1
+a_sh
+  rotate: false
+  xy: 241, 37
+  size: 105, 108
+  orig: 111, 114
+  offset: 3, 3
+  index: -1
+blick_seq/026
+  rotate: false
+  xy: 533, 482
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+blick_seq/027
+  rotate: false
+  xy: 533, 482
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+blick_seq/028
+  rotate: false
+  xy: 533, 482
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+blick_seq/029
+  rotate: false
+  xy: 533, 482
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+blick_seq/070
+  rotate: false
+  xy: 533, 482
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+blick_seq/071
+  rotate: false
+  xy: 533, 482
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+blick_seq/030
+  rotate: false
+  xy: 531, 428
+  size: 5, 8
+  orig: 48, 50
+  offset: 12, 42
+  index: -1
+blick_seq/031
+  rotate: false
+  xy: 514, 413
+  size: 15, 23
+  orig: 48, 50
+  offset: 5, 27
+  index: -1
+blick_seq/032
+  rotate: false
+  xy: 514, 459
+  size: 17, 28
+  orig: 48, 50
+  offset: 5, 22
+  index: -1
+blick_seq/033
+  rotate: false
+  xy: 509, 228
+  size: 23, 37
+  orig: 48, 50
+  offset: 1, 13
+  index: -1
+blick_seq/034
+  rotate: false
+  xy: 509, 267
+  size: 25, 40
+  orig: 48, 50
+  offset: 1, 10
+  index: -1
+blick_seq/035
+  rotate: true
+  xy: 488, 46
+  size: 28, 43
+  orig: 48, 50
+  offset: 1, 7
+  index: -1
+blick_seq/036
+  rotate: true
+  xy: 448, 86
+  size: 31, 46
+  orig: 48, 50
+  offset: 0, 4
+  index: -1
+blick_seq/037
+  rotate: true
+  xy: 191, 134
+  size: 33, 48
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+blick_seq/038
+  rotate: true
+  xy: 191, 243
+  size: 35, 48
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+blick_seq/039
+  rotate: true
+  xy: 464, 461
+  size: 36, 48
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+blick_seq/040
+  rotate: true
+  xy: 464, 423
+  size: 36, 48
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+blick_seq/041
+  rotate: true
+  xy: 464, 385
+  size: 36, 48
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+blick_seq/042
+  rotate: true
+  xy: 464, 347
+  size: 36, 48
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+blick_seq/043
+  rotate: true
+  xy: 464, 309
+  size: 36, 48
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+blick_seq/044
+  rotate: true
+  xy: 459, 271
+  size: 36, 48
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+blick_seq/045
+  rotate: true
+  xy: 459, 233
+  size: 36, 48
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+blick_seq/046
+  rotate: true
+  xy: 191, 206
+  size: 35, 48
+  orig: 48, 50
+  offset: 1, 2
+  index: -1
+blick_seq/047
+  rotate: true
+  xy: 459, 195
+  size: 36, 48
+  orig: 48, 50
+  offset: 1, 2
+  index: -1
+blick_seq/048
+  rotate: true
+  xy: 459, 157
+  size: 36, 48
+  orig: 48, 50
+  offset: 1, 2
+  index: -1
+blick_seq/049
+  rotate: true
+  xy: 464, 499
+  size: 37, 48
+  orig: 48, 50
+  offset: 1, 2
+  index: -1
+blick_seq/050
+  rotate: true
+  xy: 459, 119
+  size: 36, 48
+  orig: 48, 50
+  offset: 2, 2
+  index: -1
+blick_seq/051
+  rotate: true
+  xy: 191, 280
+  size: 36, 48
+  orig: 48, 50
+  offset: 3, 2
+  index: -1
+blick_seq/052
+  rotate: true
+  xy: 191, 169
+  size: 35, 46
+  orig: 48, 50
+  offset: 5, 2
+  index: -1
+blick_seq/053
+  rotate: true
+  xy: 120, 109
+  size: 33, 44
+  orig: 48, 50
+  offset: 7, 2
+  index: -1
+blick_seq/054
+  rotate: false
+  xy: 496, 76
+  size: 32, 41
+  orig: 48, 50
+  offset: 9, 2
+  index: -1
+blick_seq/055
+  rotate: true
+  xy: 448, 52
+  size: 32, 38
+  orig: 48, 50
+  offset: 11, 2
+  index: -1
+blick_seq/056
+  rotate: false
+  xy: 348, 30
+  size: 31, 32
+  orig: 48, 50
+  offset: 13, 2
+  index: -1
+blick_seq/057
+  rotate: true
+  xy: 381, 30
+  size: 32, 31
+  orig: 48, 50
+  offset: 14, 2
+  index: -1
+blick_seq/058
+  rotate: false
+  xy: 414, 33
+  size: 30, 29
+  orig: 48, 50
+  offset: 16, 2
+  index: -1
+blick_seq/059
+  rotate: true
+  xy: 509, 197
+  size: 29, 27
+  orig: 48, 50
+  offset: 18, 2
+  index: -1
+blick_seq/060
+  rotate: false
+  xy: 509, 170
+  size: 27, 25
+  orig: 48, 50
+  offset: 20, 2
+  index: -1
+blick_seq/061
+  rotate: false
+  xy: 514, 513
+  size: 22, 23
+  orig: 48, 50
+  offset: 25, 2
+  index: -1
+blick_seq/062
+  rotate: false
+  xy: 514, 489
+  size: 22, 22
+  orig: 48, 50
+  offset: 25, 2
+  index: -1
+blick_seq/063
+  rotate: false
+  xy: 514, 438
+  size: 21, 19
+  orig: 48, 50
+  offset: 26, 2
+  index: -1
+blick_seq/064
+  rotate: false
+  xy: 514, 393
+  size: 19, 18
+  orig: 48, 50
+  offset: 28, 2
+  index: -1
+blick_seq/065
+  rotate: false
+  xy: 514, 376
+  size: 17, 15
+  orig: 48, 50
+  offset: 30, 2
+  index: -1
+blick_seq/066
+  rotate: false
+  xy: 514, 360
+  size: 15, 14
+  orig: 48, 50
+  offset: 32, 2
+  index: -1
+blick_seq/067
+  rotate: true
+  xy: 514, 346
+  size: 12, 13
+  orig: 48, 50
+  offset: 35, 2
+  index: -1
+blick_seq/068
+  rotate: false
+  xy: 529, 346
+  size: 7, 12
+  orig: 48, 50
+  offset: 39, 2
+  index: -1
+blick_seq/069
+  rotate: true
+  xy: 533, 485
+  size: 2, 3
+  orig: 48, 50
+  offset: 44, 3
+  index: -1
+glow_out
+  rotate: false
+  xy: 2, 144
+  size: 187, 172
+  orig: 201, 184
+  offset: 6, 5
+  index: -1
+glow_out1
+  rotate: true
+  xy: 259, 340
+  size: 196, 203
+  orig: 197, 205
+  offset: 0, 1
+  index: -1
+light
+  rotate: false
+  xy: 120, 10
+  size: 107, 97
+  orig: 177, 161
+  offset: 35, 32
+  index: -1
